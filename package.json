@@ -1,0 +1,25 @@
+{
+    "name": "insta",
+    "version": "1.0.0",
+    "description": "this is simple insta copy app",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "pushpendra",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "ejs": "^2.5.7",
+        "express": "^4.15.4",
+        "gm": "^1.23.0",
+        "imagemagick": "^0.1.3",
+        "mongoose": "^4.10.8",
+        "multer": "^1.3.0",
+        "multer-imager": "^3.1.0",
+        "node-image-resize": "0.0.2",
+        "node-thumbnail": "^0.12.0",
+        "nodemailer": "^4.0.1",
+        "resize-image": "0.0.4"
+    }
+}
